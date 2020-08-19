@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Linq;
 using System.Reflection;
 
 namespace Deza.Stone.Utilities
@@ -54,5 +55,6 @@ namespace Deza.Stone.Utilities
 
             return GetDescription<T>(enumEntity);
         }
+
     }
 }
