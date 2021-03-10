@@ -1,4 +1,4 @@
-﻿namespace Deza.Stone.Entities.Abstract
+﻿namespace Deza.Stone
 {
     public interface IDto
     {
